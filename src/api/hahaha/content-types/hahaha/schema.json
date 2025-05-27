@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hahahas",
+  "info": {
+    "singularName": "hahaha",
+    "pluralName": "hahahas",
+    "displayName": "hahaha"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "t": {
+      "type": "string"
+    }
+  }
+}
